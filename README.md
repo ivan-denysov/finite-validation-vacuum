@@ -1,6 +1,6 @@
 # Numerical Companion: Wake, Saturation, Vacuum Residue, and the Double-Slit Assembly in Finite-Validation Models
 
-*United Field Initiative (UFI). Companion to: "Physics from Finite Validation: Vacuum Energy, Quanta as Constituents of the Vacuum, and the Double-Slit Assembly" [DOI to be assigned]. Code: GitHub repository [link].*
+*United Field Initiative (UFI). Companion to: "Physics from Finite Validation: Vacuum Energy, Quanta as Constituents of the Vacuum, and the Double-Slit Assembly" [DOI: 10.5281/zenodo.20634290]. Code: GitHub repository [link].*
 
 ## Purpose and Status Discipline
 
